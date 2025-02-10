@@ -25,7 +25,7 @@ Visualization: Used visual tools to explore the distribution of each feature and
 🧠 Model Building
 An Ordinary Least Squares (OLS) Regression Model was developed to predict age based on the selected features:
 
-Feature Selection: Chose features with significant correlations with age (e.g., Height, Bone Density, Vision, Hearing).
+Feature Selection: Chose features with significant correlations with age (Height, Bone Density, Vision, Hearing).
 Data Preparation: Applied one-hot encoding for categorical variables and standardized numeric features.
 Model Training: The OLS model was trained using the prepared dataset to predict age.
 
