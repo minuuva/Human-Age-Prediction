@@ -1,4 +1,4 @@
-# Human_Age_Predictor
+# Human Age Predictor
 🧑‍⚕️ Age Prediction Using Health and Lifestyle Factors
 
 📄 Project Overview
