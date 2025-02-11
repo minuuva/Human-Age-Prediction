@@ -1,5 +1,5 @@
 # Human Age Predictor
-🧑‍⚕️ Age Prediction Using Health and Lifestyle Factors
+🧑‍⚕️ Age Prediction Using Health and Lifestyle Variables
 
 📄 Project Overview
 This project aims to predict a person's age based on various health and lifestyle factors using Ordinary Least Squares (OLS) regression. The model was developed on a dataset containing attributes such as height, bone density, vision, hearing, cognitive function, stress levels, and physical activity. The goal is to create a tool for accurately predicting age, which can have applications in personalized healthcare and wellness programs.
